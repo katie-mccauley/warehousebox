@@ -70,6 +70,9 @@ function filter(properties) {
 
 }
 
+function alert() {
+  let boxes = packages.find(p => p.missing == true)
+}
 
 
 
